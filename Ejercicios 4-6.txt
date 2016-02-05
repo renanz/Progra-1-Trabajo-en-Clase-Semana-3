@@ -1,0 +1,8 @@
+Ejercicio 4
+Imprimira el numero 5.
+
+Ejercicio 5
+Imprimira el numero 6.
+
+Ejercicio 6
+Imprimira el numero 9.
